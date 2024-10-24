@@ -1,1 +1,1 @@
-
+•	Developed a web scraping tool using Nodejs, Javascript, Expressjs and packages like Axios and Cheerio, to extract data from multiple financial sites for my project management assignment during engineering days, each one of us had to make our investment portfolio profitable just starting with 100 euros within 6 months.
